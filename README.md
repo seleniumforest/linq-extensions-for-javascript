@@ -1,10 +1,9 @@
-# linq-extensions-for-javascript
+# Linq array extensions for JavaScript
 
-#### "linq equivalent in javascript"
-some extension methods for javascript's array object to implement .net's linq style queries
+For examples, look at test.js
 
-### example query: 
+Run tests
 
-var people = [{name:"wolfgang", lastname:"Fischer",age:50},{name:"ali",lastname:"Çelik",age:20},{name:"john",lastname:"Bradford",age:35}...];
-
-var underFifty = people.where(person=>person.age < 50).select(person=>{fullname:person.name + " " + person.lastname}); 
+```
+npm test
+```
