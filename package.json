@@ -1,0 +1,14 @@
+{
+  "name": "calc.js",
+  "version": "1.0.0",
+  "description": "LINQ Array Extensions for JavaScript",
+  "main": "linq-extensions-for-javascript.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.2.0"
+  }
+}
