@@ -7,3 +7,7 @@ Run tests
 ```
 npm test
 ```
+
+## TODO 
+
+need to figure out about arranging and packaging code
